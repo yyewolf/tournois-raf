@@ -24,3 +24,9 @@ C'est assez simple :
 ## Comment qu'on participe ?
 
 Et bien c'est [ici](https://forms.gle/2iufXNGSCMzxV6Cm6).
+
+## Règles
+
+- Les imports doivent être sur ma machine, donc restez soft et pas de tensorflow par exemple.
+- Un programme visant à ralentir le tournois (en exécution notemment)
+- Vous pouvez envoyer plusieurs codes (et modifier vos réponse si je me trompe pas)
