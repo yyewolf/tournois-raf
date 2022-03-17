@@ -74,7 +74,7 @@ def runGame(participants):
         sanitized = getSanitizedPlayers(players)
         for p in players:
             p = players[p]
-            target, memory = p.module.strategy(history, sanitized.copy(), p.id, p.memory)
+            target, memory = p.module.strategy(history.copy(), sanitized.copy(), p.id, p.memory)
             p.memory = memory
             round[p.id] = target
             if target == p.id:
