@@ -5,9 +5,9 @@
 ## Règles pour "R.A.F."
 
 Le jeu est assez simple puisque pour un tour vous ne pouvez faire qu'une seule chose : tirer !
-Sois tu tires sur quelqu'un puis il meurt.
-Sois tu te tires dessus et donc tu meurt SAUF si on te tire dessus (auquel cas tout tes attaquants meurent).
-Ou tu tires en l'air
+- Soit tu tires sur quelqu'un puis il meurt.
+- Soit tu te tire dessus et donc tu meurs SAUF si on te tire dessus (auquel cas tous tes attaquants meurent mais pas toi).
+- Ou alors tu tires en l'air (ne rien faire).
 
 ## Comment que ça marche ?
 
